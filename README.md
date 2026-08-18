@@ -1,6 +1,6 @@
-# Hi, I'm Fattah 👋
+# Hi, I'm Mir 👋
 
-**Senior Cloud Infrastructure Engineer** — 6+ years architecting, automating, and securing high-availability hybrid/multi-cloud environments (AWS, GCP, Alibaba Cloud, VMware, OpenShift). Currently at **PT Bank Jago Tbk**, ex-Amdocs, ex-DKATALIS.
+**Senior Cloud Infrastructure Engineer** — 7+ years architecting, automating, and securing high-availability hybrid/multi-cloud environments (AWS, GCP, Alibaba Cloud, VMware, OpenShift). Currently at **PT Bank Jago Tbk**, ex-Amdocs, ex-DKATALIS.
 
 ## 🔭 Currently
 - Trying to contribute to opensource projects and maybe creating project as well 
