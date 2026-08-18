@@ -19,9 +19,12 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
 ## 🏅 Certifications
+- Kubestronaut / 5x Linux Foundation
 - 2X AWS
 - 4X GCP
 - 5X Alibaba Cloud
+- 3X HPE Storage
+- Citrix Cloud
 
 ## 📌 Pinned worth a look
 - [nizmitz.github.io](https://github.com/nizmitz/nizmitz.github.io) — resume/portfolio site ([resume.nizmitz.com](https://resume.nizmitz.com))
