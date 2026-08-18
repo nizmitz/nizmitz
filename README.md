@@ -1,11 +1,9 @@
 # Hi, I'm Fattah 👋
 
-**Senior Cloud Infrastructure Engineer** — 6+ years architecting, automating, and securing high-availability hybrid/multi-cloud environments (AWS, GCP, Alibaba Cloud, VMware, OpenShift). Currently at **PT Bank Jago Tbk**, ex-Amdocs, ex-DKATALIS. AWS SA Pro, GCP PCA, CKA certified.
+**Senior Cloud Infrastructure Engineer** — 6+ years architecting, automating, and securing high-availability hybrid/multi-cloud environments (AWS, GCP, Alibaba Cloud, VMware, OpenShift). Currently at **PT Bank Jago Tbk**, ex-Amdocs, ex-DKATALIS.
 
 ## 🔭 Currently
-- Automating backup/restore and AS400 toils with BMC Control-M at Bank Jago
-- Building infra-as-code with Terraform on GCP (K8s the hard way, cattle infra, project bootstraps)
-- Poking at gaps in cloud tooling (missing treemap API, misleading TF provider docs)
+- Trying to contribute to opensource projects and maybe creating project as well 
 - Learning Go, shipping small apps to actually understand the language
 
 ## 🛠 Stack
@@ -21,16 +19,14 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
 ## 🏅 Certifications
-AWS SA Professional & Associate · GCP Professional Cloud Architect · CKA · CKAD · KCNA/KCSA · HashiCorp Terraform Associate · Alibaba Cloud Professional (Cloud Computing & Big Data)
+- 2X AWS
+- 4X GCP
+- 5X Alibaba Cloud
 
 ## 📌 Pinned worth a look
 - [nizmitz.github.io](https://github.com/nizmitz/nizmitz.github.io) — resume/portfolio site ([resume.nizmitz.com](https://resume.nizmitz.com))
 - [indo-salary-calculator](https://github.com/nizmitz/indo-salary-calculator) — Indonesian PPh 21 tax calculator
-- [terraform-google-k8s-hardway](https://github.com/nizmitz/terraform-google-k8s-hardway) — K8s the hard way, provisioned via Terraform on GCP
 - [terraform-google-cloudflare-wildcard-cert](https://github.com/nizmitz/terraform-google-cloudflare-wildcard-cert) — one-shot Terraform + Ansible wildcard cert (GCP + Cloudflare)
-
-## 📊 Stats
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=nizmitz&theme=radical&hide_border=true)
 
 ## 🔗 Links
 - Resume: [resume.nizmitz.com](https://resume.nizmitz.com)
